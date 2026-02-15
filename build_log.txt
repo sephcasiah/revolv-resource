@@ -1,0 +1,8 @@
+Build started at 1:12 AM...
+1>------ Build started: Project: SandHydra, Configuration: Debug x64 ------
+1>request_handler.c
+1>C:\Users\Josia\Desktop\SandHydra\core\request_handler.c(125,29): warning C4018: '>=': signed/unsigned mismatch
+1>SandHydra.vcxproj -> C:\Users\Josia\Desktop\SandHydra\x64\Debug\SandHydra.exe
+1>Done building project "SandHydra.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 1:12 AM and took 00.792 seconds ==========

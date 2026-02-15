@@ -1,0 +1,7 @@
+C:\Users\Josia\Desktop\SandHydra\core\config.c;C:\Users\Josia\Desktop\SandHydra\SandHydra\x64\Debug\config.obj
+C:\Users\Josia\Desktop\SandHydra\core\config_parser.c;C:\Users\Josia\Desktop\SandHydra\SandHydra\x64\Debug\config_parser.obj
+C:\Users\Josia\Desktop\SandHydra\core\main.c;C:\Users\Josia\Desktop\SandHydra\SandHydra\x64\Debug\main.obj
+C:\Users\Josia\Desktop\SandHydra\core\python_exec.c;C:\Users\Josia\Desktop\SandHydra\SandHydra\x64\Debug\python_exec.obj
+C:\Users\Josia\Desktop\SandHydra\core\request_handler.c;C:\Users\Josia\Desktop\SandHydra\SandHydra\x64\Debug\request_handler.obj
+C:\Users\Josia\Desktop\SandHydra\core\static_serve.c;C:\Users\Josia\Desktop\SandHydra\SandHydra\x64\Debug\static_serve.obj
+C:\Users\Josia\Desktop\SandHydra\core\vhost_parser.c;C:\Users\Josia\Desktop\SandHydra\SandHydra\x64\Debug\vhost_parser.obj
